@@ -1,10 +1,8 @@
 # test
 
-```c
-#include<stdio.h>
-int main(void)
-{
-printf("Hello Interface!\n");
-return 0;
+```java
+public static void main(String args[]) {
+  System.out.println("Hello world");
 }
+
 ```
